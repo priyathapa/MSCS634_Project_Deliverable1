@@ -9,10 +9,16 @@ Additionally, I have a personal interest in strength training and fitness, which
 
 ## Loading the Dataset
 
+The `head()` function displays the first five rows of the dataset. This provides a quick preview of the data, allowing us to verify that the dataset was loaded correctly and to gain an initial understanding of the available features and their values.
+
 <img width="1379" height="586" alt="image" src="https://github.com/user-attachments/assets/bd7f4c19-0460-4352-9890-1dfaf8b04410" />
 
 
 ## Inspect the Dataset
+
+### Determine the Dataset Dimensions
+
+The `shape` attribute returns the number of rows and columns in the dataset. This helps verify that the dataset meets the project requirements and provides an overview of its size before beginning further analysis.
 
 <img width="791" height="154" alt="image" src="https://github.com/user-attachments/assets/bf7b059a-9498-4ba7-b6b3-06cb059671de" />
 
