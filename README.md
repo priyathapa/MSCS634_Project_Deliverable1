@@ -10,3 +10,9 @@ Additionally, I have a personal interest in strength training and fitness, which
 ## Loading the Dataset
 
 <img width="1379" height="586" alt="image" src="https://github.com/user-attachments/assets/bd7f4c19-0460-4352-9890-1dfaf8b04410" />
+
+
+## Inspect the Dataset
+
+<img width="791" height="154" alt="image" src="https://github.com/user-attachments/assets/bf7b059a-9498-4ba7-b6b3-06cb059671de" />
+
