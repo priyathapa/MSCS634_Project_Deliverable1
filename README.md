@@ -22,4 +22,14 @@ The `shape` attribute returns the number of rows and columns in the dataset. Thi
 
 <img width="791" height="154" alt="image" src="https://github.com/user-attachments/assets/bf7b059a-9498-4ba7-b6b3-06cb059671de" />
 
+### Inspect the Dataset Structure
+
+The `info()` function provides a summary of the dataset, including the number of entries, column names, data types, and the number of non-null values. This information is useful for identifying missing values and determining whether any variables require type conversion before analysis.
+
 <img width="778" height="514" alt="image" src="https://github.com/user-attachments/assets/d398387f-5f4b-4cfb-8c52-63041064e2b3" />
+
+### View the Dataset Attributes
+
+The `columns` attribute displays the names of all variables in the dataset. Reviewing the column names helps identify the available features and ensures they are correctly labeled before data cleaning and analysis.
+
+<img width="813" height="593" alt="image" src="https://github.com/user-attachments/assets/405c58ee-e34e-4ac1-995b-dac0f37954a4" />
