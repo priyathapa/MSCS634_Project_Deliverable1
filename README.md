@@ -7,5 +7,6 @@ This dataset was also chosen because it represents a practical, real-world appli
 
 Additionally, I have a personal interest in strength training and fitness, which makes the project more engaging and meaningful. Working with a dataset that aligns with my interests will allow me to better interpret the results and gain insights into exercise behaviors, performance trends, and factors that contribute to successful fitness outcomes.
 
-#Loading the Dataset
+## Loading the Dataset
+
 <img width="1379" height="586" alt="image" src="https://github.com/user-attachments/assets/bd7f4c19-0460-4352-9890-1dfaf8b04410" />
