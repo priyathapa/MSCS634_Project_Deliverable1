@@ -40,3 +40,10 @@ The `describe()` function calculates descriptive statistics for all numerical va
 
 <img width="1280" height="781" alt="image" src="https://github.com/user-attachments/assets/a072d4fa-82a3-4b6f-a43f-fec6169cd352" />
 
+### Check for Missing Values
+
+Missing values can affect the quality of data analysis and predictive modeling. The following command counts the number of missing values in each column to determine whether any data cleaning is required.
+
+<img width="774" height="793" alt="image" src="https://github.com/user-attachments/assets/45230e3e-3738-41f9-9b81-2fe4cdf6fc1b" />
+
+
