@@ -6,3 +6,6 @@ I selected the Gym Members Exercise Dataset because it provides a comprehensive 
 This dataset was also chosen because it represents a practical, real-world application of data analysis in the health and fitness domain. By exploring relationships between exercise habits and fitness outcomes, the analysis can help identify factors that influence workout performance and overall health. The dataset includes both numerical and categorical variables, making it suitable for a variety of data mining techniques such as exploratory data analysis, regression, classification, clustering, and association rule mining.
 
 Additionally, I have a personal interest in strength training and fitness, which makes the project more engaging and meaningful. Working with a dataset that aligns with my interests will allow me to better interpret the results and gain insights into exercise behaviors, performance trends, and factors that contribute to successful fitness outcomes.
+
+#Loading the Dataset
+<img width="1379" height="586" alt="image" src="https://github.com/user-attachments/assets/bd7f4c19-0460-4352-9890-1dfaf8b04410" />
