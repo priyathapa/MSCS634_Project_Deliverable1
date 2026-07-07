@@ -33,3 +33,10 @@ The `info()` function provides a summary of the dataset, including the number of
 The `columns` attribute displays the names of all variables in the dataset. Reviewing the column names helps identify the available features and ensures they are correctly labeled before data cleaning and analysis.
 
 <img width="813" height="593" alt="image" src="https://github.com/user-attachments/assets/405c58ee-e34e-4ac1-995b-dac0f37954a4" />
+
+### Generate Summary Statistics
+
+The `describe()` function calculates descriptive statistics for all numerical variables, including the mean, standard deviation, minimum, maximum, and quartiles. These statistics provide an overview of the data distribution and help identify potential outliers or unusual values.
+
+<img width="1280" height="781" alt="image" src="https://github.com/user-attachments/assets/a072d4fa-82a3-4b6f-a43f-fec6169cd352" />
+
