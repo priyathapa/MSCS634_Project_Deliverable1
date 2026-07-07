@@ -1,49 +1,69 @@
 # MSCS634_Project_Deliverable1
 
 ## Project Overview
-I selected the Gym Members Exercise Dataset because it provides a comprehensive collection of health and fitness information that is well suited for data mining and predictive analytics. The dataset contains over 900 records and multiple attributes related to demographics, body composition, workout habits, heart rate, hydration, and calories burned, meeting the project requirements for both size and feature diversity.
 
-This dataset was also chosen because it represents a practical, real-world application of data analysis in the health and fitness domain. By exploring relationships between exercise habits and fitness outcomes, the analysis can help identify factors that influence workout performance and overall health. The dataset includes both numerical and categorical variables, making it suitable for a variety of data mining techniques such as exploratory data analysis, regression, classification, clustering, and association rule mining.
+This project is the first deliverable for MSCS 634: Data Mining. The objective is to prepare a real-world dataset for data mining by performing data collection, inspection, cleaning, and exploratory data analysis (EDA). The insights gained during this phase will provide the foundation for future tasks, including regression, classification, clustering, and association rule mining.
+
+---
+
+## Dataset Summary
+
+For this project, I selected the **Gym Members Exercise Dataset** from Kaggle because it provides a comprehensive collection of health and fitness information that is well suited for data mining and predictive analytics. The dataset contains over 900 records and multiple attributes related to demographics, body composition, workout habits, heart rate, hydration, workout duration, and calories burned, meeting the project requirements for both size and feature diversity.
+
+This dataset represents a practical application of data analysis in the health and fitness domain. By exploring relationships between exercise habits and fitness outcomes, the analysis can help identify factors that influence workout performance and overall health. The dataset includes both numerical and categorical variables, making it suitable for a variety of data mining techniques such as exploratory data analysis, regression, classification, clustering, and association rule mining.
 
 Additionally, I have a personal interest in strength training and fitness, which makes the project more engaging and meaningful. Working with a dataset that aligns with my interests will allow me to better interpret the results and gain insights into exercise behaviors, performance trends, and factors that contribute to successful fitness outcomes.
 
-## Loading the Dataset
+**Dataset Source:** https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset
 
-The `head()` function displays the first five rows of the dataset. This provides a quick preview of the data, allowing us to verify that the dataset was loaded correctly and to gain an initial understanding of the available features and their values.
+---
 
-<img width="1379" height="586" alt="image" src="https://github.com/user-attachments/assets/bd7f4c19-0460-4352-9890-1dfaf8b04410" />
+## Initial Data Exploration
 
+The dataset was successfully imported into a Pandas DataFrame and inspected to better understand its structure before performing any preprocessing. Initial exploration included:
 
-## Inspect the Dataset
+- Previewing the first five records.
+- Determining the dataset dimensions.
+- Examining column names and data types.
+- Generating descriptive statistics for numerical variables.
+- Checking for missing values.
 
-### Determine the Dataset Dimensions
+These steps provided a clear understanding of the dataset and helped identify areas that will require attention during the data cleaning phase.
 
-The `shape` attribute returns the number of rows and columns in the dataset. This helps verify that the dataset meets the project requirements and provides an overview of its size before beginning further analysis.
+---
 
-<img width="791" height="154" alt="image" src="https://github.com/user-attachments/assets/bf7b059a-9498-4ba7-b6b3-06cb059671de" />
+## Data Cleaning
 
-### Inspect the Dataset Structure
+*This section will be completed after the data cleaning process has been performed.*
 
-The `info()` function provides a summary of the dataset, including the number of entries, column names, data types, and the number of non-null values. This information is useful for identifying missing values and determining whether any variables require type conversion before analysis.
+The data cleaning phase will include:
+- Handling missing values.
+- Removing duplicate records.
+- Identifying and correcting inconsistent or noisy data.
+- Preparing the dataset for exploratory data analysis and predictive modeling.
 
-<img width="778" height="514" alt="image" src="https://github.com/user-attachments/assets/d398387f-5f4b-4cfb-8c52-63041064e2b3" />
+---
 
-### View the Dataset Attributes
+## Exploratory Data Analysis
 
-The `columns` attribute displays the names of all variables in the dataset. Reviewing the column names helps identify the available features and ensures they are correctly labeled before data cleaning and analysis.
+*This section will be completed after the exploratory data analysis has been performed.*
 
-<img width="813" height="593" alt="image" src="https://github.com/user-attachments/assets/405c58ee-e34e-4ac1-995b-dac0f37954a4" />
+Planned analyses include:
+- Examining feature distributions.
+- Identifying outliers.
+- Exploring relationships between variables.
+- Visualizing trends using Matplotlib and Seaborn.
+- Summarizing key insights that will support future modeling tasks.
 
-### Generate Summary Statistics
+---
 
-The `describe()` function calculates descriptive statistics for all numerical variables, including the mean, standard deviation, minimum, maximum, and quartiles. These statistics provide an overview of the data distribution and help identify potential outliers or unusual values.
+## Challenges
 
-<img width="1280" height="781" alt="image" src="https://github.com/user-attachments/assets/a072d4fa-82a3-4b6f-a43f-fec6169cd352" />
+During the initial setup, one challenge involved locating the correct file path when loading the dataset into the Kaggle Notebook environment. This issue was resolved by inspecting the input directory and using the complete dataset path. Once the dataset was successfully loaded, the inspection process proceeded without further issues.
 
-### Check for Missing Values
+---
 
-Missing values can affect the quality of data analysis and predictive modeling. The following command counts the number of missing values in each column to determine whether any data cleaning is required.
+## Repository Contents
 
-<img width="774" height="793" alt="image" src="https://github.com/user-attachments/assets/45230e3e-3738-41f9-9b81-2fe4cdf6fc1b" />
-
-
+- `MSCS634_Project_Deliverable1.ipynb` – Jupyter Notebook containing the complete implementation, code, comments, and analysis.
+- `README.md` – Project overview, dataset summary, and progress documentation.
