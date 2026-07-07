@@ -16,3 +16,4 @@ Additionally, I have a personal interest in strength training and fitness, which
 
 <img width="791" height="154" alt="image" src="https://github.com/user-attachments/assets/bf7b059a-9498-4ba7-b6b3-06cb059671de" />
 
+<img width="778" height="514" alt="image" src="https://github.com/user-attachments/assets/d398387f-5f4b-4cfb-8c52-63041064e2b3" />
