@@ -109,3 +109,5 @@ Another challenge involved determining whether the values identified as outliers
 ## Conclusion
 
 This deliverable successfully completed the initial stages of the data mining process by selecting an appropriate real-world dataset, evaluating its quality, performing the necessary preprocessing steps, and conducting exploratory data analysis. The results demonstrate that the dataset is clean, comprehensive, and suitable for predictive analytics. The knowledge gained through this exploratory phase will guide feature selection and model development in future deliverables, where machine learning techniques will be applied to generate predictive insights from the data.
+
+## Author: Priya Thapa
